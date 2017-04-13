@@ -1,0 +1,24 @@
+{
+  "name": "silver-test",
+  "version": "1.0.1",
+  "description": "this is silver mod test",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wushiwein119/silver-test.git"
+  },
+  "keywords": [
+    "node",
+    "mod",
+    "test"
+  ],
+  "author": "silverwu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wushiwein119/silver-test/issues"
+  },
+  "homepage": "https://github.com/wushiwein119/silver-test#readme"
+}
